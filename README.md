@@ -1,2 +1,2 @@
-# Renu's_calculator
+# RENU'_CALCULATOR
 I have created my own calculator by using html,css & javascript.
